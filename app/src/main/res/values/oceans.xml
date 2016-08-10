@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Abdul_color">#006699</color>
+
+    <style name="AbdulTheme" parent="android:Theme.Light">
+
+    </style>
+</resources>
